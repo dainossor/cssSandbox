@@ -11,14 +11,20 @@ body {
 
 h1 {
     color: magenta;
+    font-weight: 400;
+    font-style: italic;
 }
 
 h2 {
     color: red;
+    font-weight: 400;
+    font-style: italic;
 }
 
 h3 {
     color: darkorange;
+    font-weight: 400;
+    font-style: italic;
 }
 
 .text_normal {
