@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap);
+
+body {
+    background-color: paleturquoise;
+    color: brown;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+}
+
+h1 {
+    color: magenta;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h2 {
+    color: red;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h3 {
+    color: darkorange;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.text_normal {
+    color: crimson;
+}
